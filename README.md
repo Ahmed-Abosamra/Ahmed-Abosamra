@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ahmed Abosamra</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC Analyst in Training | Aspiring Pentester</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=Cybersecurity+Practitioner+%7C+Blue+%26+Red+Team+Learner+%7C+Passionate+about+Threat+Detection+%26+Exploitation" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
