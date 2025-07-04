@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="300" />
+  <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif"/>
 </p>
 
 ---
@@ -96,8 +96,11 @@
   — <strong>Ahmed Abosamra</strong>
 </p>
 
----
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Never+Stop+Learning!;Always+Stay+Curious." />
 </p>
+
