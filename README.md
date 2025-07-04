@@ -27,9 +27,23 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-2C9AB7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-000000?style=for-the-badge)
 ![Snort](https://img.shields.io/badge/Snort-C6370D?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-00458F?style=for-the-badge)
-![NetworkMiner](https://img.shields.io/badge/NetworkMiner-34495E?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-2E86C1?style=for-the-badge)
+
+#### 🧬 Malware Analysis Tools
+![PEStudio](https://img.shields.io/badge/PEStudio-5D6D7E?style=for-the-badge)
+![Procmon](https://img.shields.io/badge/Procmon-666699?style=for-the-badge)
+![ProcDot](https://img.shields.io/badge/ProcDot-34495E?style=for-the-badge)
+![Regshot](https://img.shields.io/badge/Regshot-2C3E50?style=for-the-badge)
+![TRiDNet](https://img.shields.io/badge/TRiDNet-7D3C98?style=for-the-badge)
+![Exeinfo PE](https://img.shields.io/badge/Exeinfo_PE-1C2833?style=for-the-badge)
+![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-0B5345?style=for-the-badge)
+![strings](https://img.shields.io/badge/strings-1E90FF?style=for-the-badge)
+![FakeNet-NG](https://img.shields.io/badge/FakeNet--NG-6A5ACD?style=for-the-badge)
+
+
 
 #### 🧨 Offensive Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -37,6 +51,15 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2980B9?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
 ![John the Ripper](https://img.shields.io/badge/John--the--Ripper-9B59B6?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logo=shodan&logoColor=white)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-0E6655?style=for-the-badge)
+![Masscan](https://img.shields.io/badge/Masscan-212F3D?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-5D6D7E?style=for-the-badge)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-873600?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-76448A?style=for-the-badge)
+![Ettercap](https://img.shields.io/badge/Ettercap-212F3D?style=for-the-badge)
+![Bettercap](https://img.shields.io/badge/Bettercap-4A235A?style=for-the-badge)
 
 ---
 
