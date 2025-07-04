@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ahmed Abosamra</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Practitioner;Blue+%26+Red+Team+Learner;Passionate+about+Threat+Detection+%26+Exploitation" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=33&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Cybersecurity+Student;Blue+%26+Red+Teaming+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -95,5 +97,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Never+Stop+Learning!;Always+Stay+Curious.;Hack+the+Planet+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Never+Stop+Learning!;Always+Stay+Curious." />
 </p>
