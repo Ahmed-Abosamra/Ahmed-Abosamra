@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+
 
 ---
 
