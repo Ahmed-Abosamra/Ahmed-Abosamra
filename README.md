@@ -50,17 +50,50 @@
 ---
 
 ### 🔥 Currently Exploring
-```txt
-📚 SEC450 – Blue Team Fundamentals
-🛡️ SOC Level 1 Labs (TryHackMe)
-💥 Pentesting Essentials – Recon, Exploits, and Post-Exploitation
-🧩 Building real-world detection use-cases
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmed-Abosamra&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-Abosamra&theme=tokyonight" alt="GitHub Streak" /> </p>
-📫 Connect with Me
-<p align="center"> <a href="mailto:ahmed-abosamra.sec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-abosamra-cybersec"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/p/Raighly"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a> <a href="https://github.com/ahmed-Abosamra"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-💬 Quote I Live By
-"Master the basics, and the rest will follow."
-— Ahmed Abosamra
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Never+Stop+Learning!;Always+Stay+Curious.;Hack+the+Planet+%F0%9F%94%90" /> </p> ```
+- 📚 SEC450 – Blue Team Fundamentals  
+- 🛡️ SOC Level 1 Labs (TryHackMe)  
+- 💥 Pentesting Essentials – Recon, Exploits, and Post-Exploitation  
+- 🧹 Building real-world detection use-cases  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-Abosamra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-Abosamra&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📢 Connect with Me
+
+<p align="center">
+  <a href="mailto:ahmed-abosamra.sec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-abosamra-cybersec">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/Raighly">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="https://github.com/ahmed-Abosamra">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote I Live By
+
+> *"Master the basics, and the rest will follow."*  
+> — Ahmed Abosamra
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Never+Stop+Learning!;Always+Stay+Curious.;Hack+the+Planet+%F0%9F%94%90" />
+</p>
