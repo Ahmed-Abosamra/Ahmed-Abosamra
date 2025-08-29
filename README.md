@@ -93,7 +93,12 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-Abosamra&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4294250" style='border:none;'></iframe>
+
+### 🛡️ TryHackMe
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Raighly.png" alt="TryHackMe Badge" />
+</p>
+
 
 ---
 
