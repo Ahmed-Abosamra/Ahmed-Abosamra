@@ -91,7 +91,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-Abosamra&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-Abosamra&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-Abosamra&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛡️ TryHackMe
