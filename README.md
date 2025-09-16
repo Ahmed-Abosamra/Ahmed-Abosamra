@@ -93,10 +93,9 @@
   <br/>
 </p>
 
-### 🛡️ TryHackMe
+### 🛡️ <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 <p align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/Raighly.png" alt="Your Image Badge" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </p>
 
 
