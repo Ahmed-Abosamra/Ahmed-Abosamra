@@ -113,9 +113,6 @@
   <a href="https://tryhackme.com/p/Raighly">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://github.com/ahmed-Abosamra">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
