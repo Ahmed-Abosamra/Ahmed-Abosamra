@@ -110,9 +110,6 @@
   <a href="https://www.linkedin.com/in/ahmed-abosamra-cybersec">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/Raighly">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
 </p>
 
 ---
