@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Abosamra&fontSize=50&fontAlignY=32&desc=Red%20Team%20%7C%20Blue%20Team%20%7C%20Security%20Researcher&descSize=18&descAlignY=51&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=%F0%9F%94%B4+Offensive+Security+%7C+Red+Team;%F0%9F%94%B5+Defensive+Security+%7C+Blue+Team;%F0%9F%94%8D+Threat+Hunting+%26+DFIR;%F0%9F%A7%AC+Malware+Analysis+%26+RE;%F0%9F%9B%A1%EF%B8%8F+Detection+Engineering" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=%F0%9F%94%B4+Offensive+Security+%7C+Red+Team;%F0%9F%94%B5+Defensive+Security+%7C+Blue+Team;%F0%9F%A7%AC+Malware+Analysis;" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -118,7 +118,7 @@
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-5D6D7E?style=for-the-badge&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-76448A?style=for-the-badge&logoColor=white)
-![Dirbuster](https://img.shields.io/badge/Dirbuster-873600?style=for-the-badge&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirbuster-873600?style=for-the-badge&logoColor=white)
 
 **Password Attacks**
 
@@ -127,8 +127,11 @@
 
 **Network Attacks**
 
-![Ettercap](https://img.shields.io/badge/Ettercap-212F3D?style=for-the-badge&logoColor=white)
-![Bettercap](https://img.shields.io/badge/Bettercap-4A235A?style=for-the-badge&logoColor=white)
+![Ettercap](https://img.shields.io/badge/Ettercap-212F3D?style=for-the-badge)
+![Bettercap](https://img.shields.io/badge/Bettercap-4A235A?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1B4F72?style=for-the-badge)
+![Airgeddon](https://img.shields.io/badge/Airgeddon-196F3D?style=for-the-badge)
+
 
 </div>
 
