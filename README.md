@@ -34,13 +34,13 @@
 
 <img align="right" alt="Hacking GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👾 **Also known as:** Raighly (my alias since childhood)
-- 🎯 **Currently focusing on:** SOC Operations & Offensive Security
-- 🎓 **Studying:** Cybersecurity (Senior Year)
-- 🌱 **Learning:** Blue Teaming, Red Teaming & Digital Forensics
-- 🧠 **Interests:** Detection Engineering, Log Analysis, Exploitation & Malware Analysis
-- 🏅 **Practicing on:** [TryHackMe](https://tryhackme.com/p/Raighly)
-- 💬 **Ask me about:** Security Operations, Penetration Testing, DFIR
+- 👾 **Alias:** Raighly  
+- 🎓 **Background:** Computer Science (Cybersecurity) — Senior Year  
+- 🎯 **Focus Areas:** SOC Operations, Offensive Security 
+- 🧪 **Hands-on Practice:** TryHackMe • Hack The Box • PortSwigger Labs  
+- 🔍 **Technical Interests:** Log Analysis, Exploitation, Malware Analysis & DFIR  
+- 🛠️ **Experience With:** Blue Team workflows, Red Team techniques, and real-world attack/defense scenarios  
+- 💬 **Ask Me About:** SOC Analysis, Web Exploitation, Incident Response, and Security Fundamentals 
 - 📍 **Location:** Alexandria, Egypt 🇪🇬
 - ⚡ **Philosophy:** *"Master the basics, and the rest will follow."*
 
