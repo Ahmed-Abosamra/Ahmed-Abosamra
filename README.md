@@ -169,20 +169,18 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> GitHub Statistics
 
-<div align="center">
+<p  align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Abosamra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abosamra&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00&border_radius=10" alt="GitHub Streak"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed-abosamra&theme=react&show_icons=true&hide_border=true&count_private=true"  alt="Ahmed's GitHub Stats">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abosamra&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
+</p>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Abosamra&bg_color=0d1117&color=00ff00&line=00ff00&point=ff0000&area=true&hide_border=true&border_radius=10" width="98%" alt="Contribution Graph"/>
+<p  align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Abosamra&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmed-abosamra&theme=dark&langs_count=8&hide=swig&layout=compact">
 
-</div>
+</p>
+
 
 <br/>
 
